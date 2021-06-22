@@ -8,7 +8,11 @@ In order to Install the Application
 
 This project will fetch the details about Data Science Jobs from Indeed Site and then store it in the database 
 Through the local host you can check the data 
-Pagination concept is implemented in order to bring the pages from database to local host
+
+
+Python Schedule Function has been used and which executes on intervals and hits the API which accordingly hits the 
+Job Portals like indeed in this case and details like JobTitle ,Company and the salary is fetched and stored into the database 
+further, Pagination concept is implemented in order to bring the data into from database to local host
 
 
 Thanks
